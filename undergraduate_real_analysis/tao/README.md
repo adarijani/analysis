@@ -1,4 +1,4 @@
-To the best of my knowledge [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao) used to use [Baby Rudin](https://en.wikipedia.org/wiki/Principles_of_Mathematical_Analysis) for his Math131AH and Math131BH which are Honors Analysis in the American sense at [UCLA](https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles). He sure appreciated the book but thougth a set of accomponying lecture notes with be beneficial to the uninitiated.
+To the best of my knowledge [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao) used to use [Baby Rudin](https://en.wikipedia.org/wiki/Principles_of_Mathematical_Analysis) for his Math131AH and Math131BH which are Honors Analysis in the American sense at [UCLA](https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles). He sure appreciated the book but thought a set of accomponying lecture notes would be beneficial to the uninitiated.
 
 In his words: 
 
