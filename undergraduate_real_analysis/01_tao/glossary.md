@@ -1,4 +1,4 @@
-### non-math jargon
+### non-math(kind of) jargon
 
 * [honors-level course](https://en.wikipedia.org/wiki/Honors_student)
 * 
