@@ -1,4 +1,4 @@
-Reading a couple of books to reach [Mathematical Maturity](https://en.wikipedia.org/wiki/Mathematical_maturity) in [Undergraduate](https://en.wikipedia.org/wiki/Undergraduate_education) [Real Analysis](https://en.wikipedia.org/wiki/Real_analysis).
+My attempt to master [Mathematical Maturity](https://en.wikipedia.org/wiki/Mathematical_maturity) in [Mathematical Analysis](https://en.wikipedia.org/wiki/Mathematical_analysis).
 
 ##### Reading
 
