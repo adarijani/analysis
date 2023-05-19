@@ -10,3 +10,9 @@ For now my goal is to read both of the books by [Terence Tao](https://en.wikiped
 
 * [Analysis  I by Terence Tao](https://link.springer.com/book/10.1007/978-981-19-7261-4)
 * [Analysis II by Terence Tao](https://link.springer.com/book/10.1007/978-981-19-7284-3)
+
+### Reviews of the books
+
+* [Analysis  I](https://www.maa.org/publications/maa-reviews/analysis-i-0) by [Michael Berg](https://cse.lmu.edu/graduateprograms/mat/faculty/?expert=michael.berg)
+* [Analysis II](https://www.maa.org/press/maa-reviews/analysis-ii-1) by [Michael Berg](https://cse.lmu.edu/graduateprograms/mat/faculty/?expert=michael.berg)
+* 
