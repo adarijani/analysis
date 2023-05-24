@@ -11,4 +11,6 @@ My attempt to master [Mathematical Maturity](https://en.wikipedia.org/wiki/Mathe
 
 ##### To Be Read
 
-*
+* [Where Do Numbers Come From?](https://www.cambridge.org/core/books/where-do-numbers-come-from/A6244ADFE1954F292FCE09B980FE5AC3) by [Thomas William Körner](https://www.dpmms.cam.ac.uk/~twk/)
+* [The Real Numbers ](https://link.springer.com/book/10.1007/978-3-319-01577-4) by [John Stillwell](https://www.usfca.edu/faculty/john-stillwell)
+* [Foundations of Analysis](https://bookstore.ams.org/chel-79/) by [Edmund Landau](https://en.wikipedia.org/wiki/Edmund_Landau)
